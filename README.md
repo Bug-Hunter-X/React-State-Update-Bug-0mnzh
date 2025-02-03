@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in React state updates. The `bug.js` file shows the incorrect way to update state which can lead to unexpected behavior. The `bugSolution.js` file shows the correct way to update the state.
